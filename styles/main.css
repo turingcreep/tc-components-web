@@ -1,0 +1,13 @@
+. component{
+  position:relative;
+}
+
+.component ul{
+  list-style:none;
+}
+
+.component .digit{
+  width:30px;
+  height:30px;
+  border-radius:10px
+}
