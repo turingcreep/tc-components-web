@@ -1,0 +1,19 @@
+.carousel-left-nav::before{
+  content:"previous";
+  display:inline;
+}
+
+.carousel-right-nav::after{
+  content:"next";
+  display:inline;
+}
+.carousel-left-nav,.carousel-content,.carousel-right-nav{
+  display:inline;
+}
+.carousel-content{
+  margin-left:5px;
+  margin-right:5px;
+}
+.carousel-item{
+  display:inline;
+}
