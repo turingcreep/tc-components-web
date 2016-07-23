@@ -1,0 +1,22 @@
+{
+  "name": "tc-components-web",
+  "version": "1.0.0",
+  "description": "A set of react components to be used in webapplications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingcreep/tc-components-web.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Shankar Sengupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingcreep/tc-components-web/issues"
+  },
+  "homepage": "https://github.com/turingcreep/tc-components-web#readme"
+}
