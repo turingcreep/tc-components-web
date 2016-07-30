@@ -3,6 +3,7 @@
   width:150px;
   border: 1px solid gray;
   padding:10px;
+  margin:2.5px;
 }
 
 .component.card h3.card-header{
