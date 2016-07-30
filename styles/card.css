@@ -1,0 +1,10 @@
+.component.card{
+  display:inline-block;
+  width:150px;
+  border: 1px solid gray;
+  padding:10px;
+}
+
+.component.card h3.card-header{
+  margin-top:0px;
+}
