@@ -1,6 +1,6 @@
 import Email from 'atoms/Email.jsx';
 import Password from 'atoms/Password.jsx';
-import Password from 'atoms/Form.jsx';
+import Form from 'atoms/Form.jsx';
 
 
 export default class Login extends React.Component{
